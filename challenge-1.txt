@@ -1,0 +1,4 @@
+1.  a. A hidden file is created in CLI by the command touch <file_name> 
+    b. A hidden folder is created in CLI by the command  mkdir <name_of_folder>
+    c. It is displayed by the command ls <file_name> or ls <name_of_folder>
+2. It can be created by drag-and-drop the particular folder into CLI or by the command mkdir -p /c/Users/myusername/these/folders/are/just/for/fun

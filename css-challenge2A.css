@@ -1,0 +1,50 @@
+body {
+    background-color: #8aad8a;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    line-height: 30px;
+    margin:5%;
+
+}
+
+
+.container {
+    border-color: black;
+    border-style: dashed;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-style: italic;
+    
+}
+
+
+p {
+    text-align: justify;
+    font-style: italic;
+}
+
+ul {
+    /* margin: 0 25%; */
+    display: inline-table;
+    list-style: none;
+}
+
+li::first-letter {
+    color: black;
+    font-size: 120%;
+  }
+
+footer {
+    font-size: small;
+    text-align: center;
+}
+  
+
+a:hover{
+  color: yellow;
+}
